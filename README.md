@@ -10,7 +10,5 @@ I also maked it responsive using media queries .
 - [@saransh-vashisht](https://github.com/saransh-vashisht)
 
 
-## Screenshots
 
-![App Screenshot](./Screenshots/Screenshot 2022-02-10 220245.png)
 
